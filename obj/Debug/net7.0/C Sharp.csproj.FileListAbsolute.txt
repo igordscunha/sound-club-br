@@ -1,0 +1,14 @@
+C:\Users\igord\Documents\dev\C Sharp\bin\Debug\net7.0\C Sharp.exe
+C:\Users\igord\Documents\dev\C Sharp\bin\Debug\net7.0\C Sharp.deps.json
+C:\Users\igord\Documents\dev\C Sharp\bin\Debug\net7.0\C Sharp.runtimeconfig.json
+C:\Users\igord\Documents\dev\C Sharp\bin\Debug\net7.0\C Sharp.dll
+C:\Users\igord\Documents\dev\C Sharp\bin\Debug\net7.0\C Sharp.pdb
+C:\Users\igord\Documents\dev\C Sharp\obj\Debug\net7.0\C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igord\Documents\dev\C Sharp\obj\Debug\net7.0\C Sharp.AssemblyInfoInputs.cache
+C:\Users\igord\Documents\dev\C Sharp\obj\Debug\net7.0\C Sharp.AssemblyInfo.cs
+C:\Users\igord\Documents\dev\C Sharp\obj\Debug\net7.0\C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\igord\Documents\dev\C Sharp\obj\Debug\net7.0\C Sharp.dll
+C:\Users\igord\Documents\dev\C Sharp\obj\Debug\net7.0\refint\C Sharp.dll
+C:\Users\igord\Documents\dev\C Sharp\obj\Debug\net7.0\C Sharp.pdb
+C:\Users\igord\Documents\dev\C Sharp\obj\Debug\net7.0\C Sharp.genruntimeconfig.cache
+C:\Users\igord\Documents\dev\C Sharp\obj\Debug\net7.0\ref\C Sharp.dll
